@@ -1,0 +1,56 @@
+1.
+git branch show the available branches in a project.
+2.
+git checkout is used to change the working branch.
+3.
+merge is used to merge the branch to another barnch.
+4.
+gitignore is used to define which file to ignore in staging.
+(adding and committing)
+5.
+git push is used to update the remote to the local( to push the changed file to the remote).
+6.
+git stash is used to record the current status.
+7.
+git head is used to view where is the head(last commit).
+8.
+ git pull is used to fretrieve the files from remote.
+9.
+git remote is used to add a remote folder.
+10.
+git revert is used to revert the changes.
+11.
+git tag is used to mark a point.
+12.
+git mv is used to rename the file.
+13.
+git init is used to initialize the folder.
+14.
+git add is used to add the file in staging area.
+15.
+git commit is used to save the changes(commit).
+16.
+git clone is used to download the files from remote.
+17.
+git restore is used to unstaged the uncommited local files.
+18.
+git diff is used to show the difference between two stages of a file.
+19.
+git log used to show the history of the repository.
+20.
+git status is used to show the state of working directory.
+21.
+git config --global user.email "emailid"
+git config --global user.name "uname"
+
+22.
+local repository is the repository on your computer.
+centralised repository means every team member work in the same repository placed at cloud or one common server.
+distributed meansthe files are stored at different location.
+
+23.
+it allows us to collaborate and easy commands to do the work done(to maintain the repository).
+24.
+version control system or vcs provide us tools to manage the files so that team can work without worrying about different version of the same project.
+25.
+index file is a binary file that contains the list of paths,permission.
