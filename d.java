@@ -52,12 +52,12 @@ public class Maze{
 	}
 	public static void main(String args[]) throws Exception{
 		int n = 4;
-		int arr[][] = { { 1, 0, 0, 0 }, 
+		int arr1[][] = { { 1, 0, 0, 0 }, 
                          { 1, 1, 0, 1 }, 
                          { 0, 1, 0, 0 }, 
                          { 1, 1, 1, 1 }
                      };
-        boolean x = maze(arr,n);
+        boolean x = maze(arr1,n);
 
 	}
 }
