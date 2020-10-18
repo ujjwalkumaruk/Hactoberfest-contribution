@@ -33,7 +33,7 @@ public class NQueen{
 
 	}
 	public static void main(String args[])throws Exception{
-		int n = 5;
+		int n = 6;
 		int arr[] = new int[n];
 		nQueen(arr, 0, n);
 		for(int i = 0; i < n; i++)
