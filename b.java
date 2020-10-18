@@ -30,6 +30,7 @@ public class Sort_Array{
         al.add(1);
         al.add(0);
         al.add(2);
+        al.add(3);
         sortArray(al);
         for(int i = 0; i < al.size(); i++){
             System.out.println(al.get(i));
